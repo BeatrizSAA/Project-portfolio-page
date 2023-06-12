@@ -78,8 +78,7 @@ font-weight:500;
 .apresentacao_botoes_links {
 
 display: flex;
-justify-content: space-around;
-flex-direction: inherit;
+justify-content: space-between;
 align-items: center;
 gap: 20px;
 
